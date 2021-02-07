@@ -38,7 +38,7 @@
 2. Generate a new project
 
 ```
-wrangler generate booster https://github.com/Berkeley-Reject/Workers-Proxy
+wrangler generate booster https://github.com/viperadnan-git/website-booster
 ```
 
 3. [Configure](https://developers.cloudflare.com/workers/quickstart/#configure) `wrangler.toml` to prepare your project for deployment

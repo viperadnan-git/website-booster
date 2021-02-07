@@ -1,0 +1,33 @@
+{
+  "name": "booster",
+  "version": "1.0.0",
+  "description": "booster.js is a speed and performance optimizier for your website, delivering fast web experiences to users.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint --fix src/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoyang-liu-cs/booster.js.git"
+  },
+  "keywords": [
+    "serverless",
+    "cloudflare workers",
+    "reverse proxy"
+  ],
+  "author": "Xiaoyang Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoyang-liu-cs/booster.js/issues"
+  },
+  "homepage": "https://github.com/xiaoyang-liu-cs/booster.js#readme",
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
